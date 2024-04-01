@@ -1,0 +1,9 @@
+torch
+faiss-gpu
+PIL
+pandas
+ultralytics
+opencv-python
+tqdm
+numpy
+streamlit
